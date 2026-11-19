@@ -176,7 +176,7 @@ SwiftDL is free, with no ads and no account. If it saves you time, you can suppo
 **[☕ Buy me a coffee](https://buymeacoffee.com/divineprovidence)**
 
 <a href="https://buymeacoffee.com/divineprovidence">
-  <img src="PASTE-THE-IMAGE-URL-HERE" alt="Buy Me a Coffee QR code" width="180">
+  <img src="https://github.com/divineprovidence-apps/Swift_DM/releases/download/v0.1.0/qr-code.png" alt="Buy Me a Coffee QR code" width="180">
 </a>
 
 Scan the code with your phone, or click it.
