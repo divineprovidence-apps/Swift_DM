@@ -31,6 +31,7 @@ No ads. No account. No tracking.
 - Create **as many queues as you like**, each started separately
 - Choose **how many downloads run at a time** in each queue
 - Add downloads to a queue that's already running
+- **Force start ⚡**: download one item right now, without waiting in line and without taking a slot from the queue
 
 ### 🔒 Privacy
 - **Lock a queue with a PIN** so nobody else can see what's in it
@@ -47,6 +48,7 @@ No ads. No account. No tracking.
 - Notifications when downloads finish
 - Starts with your computer (optional)
 - Picks up download links you copy
+- **Select several downloads** and remove them together, with or without their files
 - Uninstall straight from Settings
 - Works when **several users are signed in** to the same computer
 
@@ -111,10 +113,18 @@ SwiftDL asks you to **Allow** the connection. Click it once, and you're done.
 3. Open the queue in the sidebar and click **Start** when you're ready.
 4. Use **At a time** to set how many downloads run together.
 
+### Skip the line (Force start)
+Click **⚡** on any download that is waiting or queued. It starts right away, and the rest of the queue carries on as before.
+
 ### Lock a queue
 1. Open a queue and click the **🔒 lock** button.
 2. Set a PIN (at least 4 digits).
 3. The queue's contents are now hidden until you enter the PIN.
+
+### Delete several downloads
+1. Tick the box next to each download, or use **Select all** at the top of the list.
+2. Click **Delete selected…**.
+3. Choose **Remove from list** to keep the files, or **Remove and delete files** to move finished files to the Recycle Bin / Trash.
 
 ### Pause, resume and speed up
 - Click **Pause** or **Resume** on any download, even after closing SwiftDL.
