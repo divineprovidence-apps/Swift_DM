@@ -169,16 +169,15 @@ You need [Node.js](https://nodejs.org) 20+, [Rust](https://rustup.rs), and the [
 
 ---
 
-## Support SwiftDL ☕
+## ☕ Support SwiftDL
 
-SwiftDL is free, with no ads and no account. If it saves you time, you can support its development with a coffee:
+SwiftDL is free, with no ads and no account, and it's made in spare time. If it saves you time, you can support its development in whichever way suits you:
 
-**[☕ Buy me a coffee](https://buymeacoffee.com/divineprovidence)**
+| Buy Me a Coffee | Ko-fi | Liberapay |
+|:---:|:---:|:---:|
+| <a href="https://buymeacoffee.com/divineprovidence"><img src="https://github.com/divineprovidence-apps/Swift_DM/releases/download/v0.1.0/qr-code.png" alt="Buy Me a Coffee QR code" width="160"></a> | <a href="https://ko-fi.com/divineprovidence"><img src="https://github.com/divineprovidence-apps/Swift_DM/releases/download/v1.0.0/kofi-qrcode.png" alt="Ko-fi QR code" width="160"></a> | <a href="https://liberapay.com/divineprovidence/donate"><img src="https://liberapay.com/assets/widgets/donate.svg" alt="Donate using Liberapay" height="40"></a> |
+| **[One-time coffee](https://buymeacoffee.com/divineprovidence)** | **[One-time or monthly](https://ko-fi.com/divineprovidence)** | **[Weekly, monthly or yearly](https://liberapay.com/divineprovidence/donate)** |
 
-<a href="https://buymeacoffee.com/divineprovidence">
-  <img src="https://github.com/divineprovidence-apps/Swift_DM/releases/download/v0.1.0/qr-code.png" alt="Buy Me a Coffee QR code" width="180">
-</a>
+Scan a code with your phone, or click it. You can also find these in the app under **♥ Support SwiftDL**.
 
-Scan the code with your phone, or click it.
-
-If SwiftDL saves you time, give the project a ⭐ on GitHub. It helps others find it.
+Not able to donate? Giving the project a ⭐ on GitHub and telling a friend help a lot too.
