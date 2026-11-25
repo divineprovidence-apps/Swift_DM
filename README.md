@@ -1,6 +1,6 @@
 # SwiftDL — Free, Fast Download Manager
 
-**SwiftDL** is a free, open-source download manager for **Windows, macOS and Linux**, with a companion browser extension.
+**SwiftDL** is a free download manager for **Windows, macOS and Linux**, with a companion browser extension.
 It downloads files faster by splitting them into many connections, resumes interrupted downloads, and saves videos from YouTube and 1000+ other sites.
 
 No ads. No account. No tracking.
