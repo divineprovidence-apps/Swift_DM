@@ -198,9 +198,12 @@ Browser Extention - Youtube :
 <img width="1367" height="968" alt="image" src="https://github.com/user-attachments/assets/5755f62d-c2ef-4dbf-b216-6f671fe5e38d" />
 Browser Extention - Instagram : 
 <img width="1490" height="945" alt="image" src="https://github.com/user-attachments/assets/6562fe8e-c95f-4692-85b7-8c0b178eef59" />
-Queue : 
+Queue :
+
 <img width="673" height="498" alt="image" src="https://github.com/user-attachments/assets/e3227d4d-f20f-416d-9540-b7de98b4027b" />
 Settings 1 : 
+
 <img width="767" height="1039" alt="image" src="https://github.com/user-attachments/assets/65cc11a7-6d19-4ca9-b756-b462a5f3a43a" />
 Settings 2 : 
+
 <img width="707" height="1038" alt="image" src="https://github.com/user-attachments/assets/9afb0d60-721f-4155-914a-a1126bf29db7" />
